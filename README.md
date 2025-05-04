@@ -20,3 +20,7 @@ Feel free to contribute to this repository or give issues to us!
 ## Download
 
 [Download](https://github.com/KaydenJR2310/Uzuy-Graphics-Fixer/releases)
+
+## About
+
+[Terms and Conditions](https://github.com/KaydenJR2310/Uzuy-Graphics-Fixer/blob/main/Terms_and_conditions) :: [License](LICENSE) :: [Telegram Group](https://t.me/kaydengaminggroup)
