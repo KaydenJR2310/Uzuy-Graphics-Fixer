@@ -23,4 +23,4 @@ Feel free to contribute to this repository or give issues to us!
 
 ## About
 
-[Terms and Conditions](https://github.com/KaydenJR2310/Uzuy-Graphics-Fixer/blob/main/Terms_and_conditions) :: [License](LICENSE) :: [Telegram Group](https://t.me/kaydengaminggroup)
+[Terms and Conditions](https://github.com/KaydenJR2310/Uzuy-Graphics-Fixer/blob/main/Terms_and_conditions) :: [License](LICENSE) :: [Telegram Group](https://t.me/kaydengaminggroup) :: [Code Of Conduct](https://github.com/KaydenJR2310/Uzuy-Graphics-Fixer/blob/main/CODE_OF_CONDUCT.md)
