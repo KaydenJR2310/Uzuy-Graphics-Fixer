@@ -1,4 +1,4 @@
-## Before using our software, you need to agree to our Terms and Conditions
+## Before downloading, you need to agree to the Terms and Conditions
 ## Terms and Conditions
 
 ## 1. Introduction
