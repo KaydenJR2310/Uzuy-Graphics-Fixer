@@ -56,4 +56,4 @@ Reinstatement of rights is possible upon ceasing the violation and curing any br
 These terms shall be governed by the laws applicable in your jurisdiction and international copyright law.
 
 ## 7. Acceptance
-By using this Software, you acknowledge that you have read and understood the GPLv3 license and agree to comply with its terms and 
+By using this Software, you acknowledge that you have read and understood the GPLv3 license and agree to comply with its terms and agree to comply with its terms and conditions fully.
