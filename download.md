@@ -59,4 +59,4 @@ These terms shall be governed by the laws applicable in your jurisdiction and in
 By using this Software, you acknowledge that you have read and understood the GPLv3 license and agree to comply with its terms and agree to comply with its terms and conditions fully.
 
 
-[I agree to the Terms and Conditions](https://github.com/KaydenJR2310/Uzuy-Graphics-Fixer/blob/main/download.md) || [I Disagree](https://github.com/KaydenJR2310/Uzuy-Graphics-Fixer)
+[I agree to the Terms and Conditions](https://github.com/KaydenJR2310/Uzuy-Graphics-Fixer/blob/main/all_versions.md) || [I Disagree](https://github.com/KaydenJR2310/Uzuy-Graphics-Fixer)
